@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Darkonix</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="date_number">Дата</string>
+    <string name="name_item">Введите название продукта</string>
+    <string name="price_item">Цена</string>
+    <string name="location_shop">Геолокация</string>
+    <string name="weight_item">Вес</string>
+    <string name="quantity_item">Кол-во</string>
+    <string name="description_item">Введите описание продукта</string>
+    <string-array name="importance_array">
+        <item>Высокая</item>
+        <item>Средняя</item>
+        <item>Низкая</item>
+
+    </string-array>
+</resources>
